@@ -14,6 +14,22 @@ maintainers:
           - 06kellyjac
           - jkjell
           - adityasaky
+      # Witness subproject (https://github.com/in-toto/witness).
+      # Source of truth: https://github.com/in-toto/witness/blob/main/MAINTAINERS.md
+      - name: "witness-maintainers"
+        members:
+          - colek42
+          - jkjell
+          - adityasaky
+          - mikhailswift
+          - fkautz
+          - manzil-infinity180
+          - stupendoussuperpowers
+          - Vyom-Yadav
+      - name: "witness-emeritus"
+        managed: false
+        members:
+          - ChaosInTheCRD
       # Unmanaged teams: teams with "managed: false" are tracked in this
       # file for documentation but are excluded from CNCF resource
       # provisioning (mailing lists, service desk, Copilot seats, etc).
