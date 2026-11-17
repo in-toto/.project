@@ -30,7 +30,7 @@ repositories: # TODO: AUTO-DETECTED primary — please verify
 
 website: "https://in-toto.io"
 
-artwork: "https://landscape.cncf.io/logos/in-toto.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/in-toto"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
